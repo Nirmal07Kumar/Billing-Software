@@ -1,0 +1,17 @@
+	 Welcome Nirmal's Mini Mall
+ Bill Number:2226
+ Customer Name:Saroja
+ Phone Number:8514521102
+ Customer Email:sari234@gmail.com
+ ================================================
+ Products			Qty		Price
+ ================================================ Lux		1		38
+ Lux		1		38
+ Lux		1		38
+ Lux		1		38
+
+ ================================================
+ Sub Amount:			Rs.190.00
+ Tax Amount:			Rs.1.52
+ Total Amount:			Rs.191.52
+ ================================================

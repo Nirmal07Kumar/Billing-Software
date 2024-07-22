@@ -1,0 +1,18 @@
+	 Welcome Nirmal's Mini Mall
+ Bill Number:8057
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ ================================================
+ Products			Qty		Price
+================================================
+ Fair			3		120
+ Olay			1		90
+ Polo			2		3000
+
+ ================================================
+ Sub Amount:			Rs.3210.00
+ Tax Amount:			Rs.17.10
+ Total Amount:			Rs.3227.10
+================================================
+
